@@ -2,11 +2,11 @@
 
 Framer Motion adheres to [Semantic Versioning](http://semver.org/).
 
-## [6.2.8] 2022-02-23
+## [6.2.9] 2022-03-11
 
-### Changed
+### Fixed
 
--   Fixing race conditions for variants changed by state vs by gesture.
+-   Re-enabling layout animations on `svg` elements.
 
 ## [6.2.7] 2022-02-21
 
